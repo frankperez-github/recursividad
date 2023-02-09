@@ -1,0 +1,207 @@
+/Users/tony/Downloads/tourist/tester/bin/Debug/net6.0/tester
+/Users/tony/Downloads/tourist/tester/bin/Debug/net6.0/tester.deps.json
+/Users/tony/Downloads/tourist/tester/bin/Debug/net6.0/tester.runtimeconfig.json
+/Users/tony/Downloads/tourist/tester/bin/Debug/net6.0/tester.dll
+/Users/tony/Downloads/tourist/tester/bin/Debug/net6.0/ref/tester.dll
+/Users/tony/Downloads/tourist/tester/bin/Debug/net6.0/tester.pdb
+/Users/tony/Downloads/tourist/tester/bin/Debug/net6.0/tourist.dll
+/Users/tony/Downloads/tourist/tester/bin/Debug/net6.0/tourist.pdb
+/Users/tony/Downloads/tourist/tester/obj/Debug/net6.0/tester.csproj.AssemblyReference.cache
+/Users/tony/Downloads/tourist/tester/obj/Debug/net6.0/tester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Downloads/tourist/tester/obj/Debug/net6.0/tester.AssemblyInfoInputs.cache
+/Users/tony/Downloads/tourist/tester/obj/Debug/net6.0/tester.AssemblyInfo.cs
+/Users/tony/Downloads/tourist/tester/obj/Debug/net6.0/tester.csproj.CoreCompileInputs.cache
+/Users/tony/Downloads/tourist/tester/obj/Debug/net6.0/tester.csproj.CopyComplete
+/Users/tony/Downloads/tourist/tester/obj/Debug/net6.0/tester.dll
+/Users/tony/Downloads/tourist/tester/obj/Debug/net6.0/ref/tester.dll
+/Users/tony/Downloads/tourist/tester/obj/Debug/net6.0/tester.pdb
+/Users/tony/Downloads/tourist/tester/obj/Debug/net6.0/tester.genruntimeconfig.cache
+/Users/tony/Downloads/tourist/tester/bin/Debug/net6.0/resolver.dll
+/Users/tony/Downloads/tourist/tester/bin/Debug/net6.0/resolver.pdb
+/Users/tony/Downloads/tourist solution/tester/bin/Debug/net6.0/tester
+/Users/tony/Downloads/tourist solution/tester/bin/Debug/net6.0/tester.deps.json
+/Users/tony/Downloads/tourist solution/tester/bin/Debug/net6.0/tester.runtimeconfig.json
+/Users/tony/Downloads/tourist solution/tester/bin/Debug/net6.0/tester.dll
+/Users/tony/Downloads/tourist solution/tester/bin/Debug/net6.0/ref/tester.dll
+/Users/tony/Downloads/tourist solution/tester/bin/Debug/net6.0/tester.pdb
+/Users/tony/Downloads/tourist solution/tester/bin/Debug/net6.0/resolver.dll
+/Users/tony/Downloads/tourist solution/tester/bin/Debug/net6.0/tourist.dll
+/Users/tony/Downloads/tourist solution/tester/bin/Debug/net6.0/tourist.pdb
+/Users/tony/Downloads/tourist solution/tester/bin/Debug/net6.0/resolver.pdb
+/Users/tony/Downloads/tourist solution/tester/obj/Debug/net6.0/tester.csproj.AssemblyReference.cache
+/Users/tony/Downloads/tourist solution/tester/obj/Debug/net6.0/tester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Downloads/tourist solution/tester/obj/Debug/net6.0/tester.AssemblyInfoInputs.cache
+/Users/tony/Downloads/tourist solution/tester/obj/Debug/net6.0/tester.AssemblyInfo.cs
+/Users/tony/Downloads/tourist solution/tester/obj/Debug/net6.0/tester.csproj.CoreCompileInputs.cache
+/Users/tony/Downloads/tourist solution/tester/obj/Debug/net6.0/tester.csproj.CopyComplete
+/Users/tony/Downloads/tourist solution/tester/obj/Debug/net6.0/tester.dll
+/Users/tony/Downloads/tourist solution/tester/obj/Debug/net6.0/ref/tester.dll
+/Users/tony/Downloads/tourist solution/tester/obj/Debug/net6.0/tester.pdb
+/Users/tony/Downloads/tourist solution/tester/obj/Debug/net6.0/tester.genruntimeconfig.cache
+/Users/tony/Downloads/Examenes mañana/tester/tester/bin/Debug/net6.0/tester
+/Users/tony/Downloads/Examenes mañana/tester/tester/bin/Debug/net6.0/tester.deps.json
+/Users/tony/Downloads/Examenes mañana/tester/tester/bin/Debug/net6.0/tester.runtimeconfig.json
+/Users/tony/Downloads/Examenes mañana/tester/tester/bin/Debug/net6.0/tester.dll
+/Users/tony/Downloads/Examenes mañana/tester/tester/bin/Debug/net6.0/ref/tester.dll
+/Users/tony/Downloads/Examenes mañana/tester/tester/bin/Debug/net6.0/tester.pdb
+/Users/tony/Downloads/Examenes mañana/tester/tester/bin/Debug/net6.0/resolver.dll
+/Users/tony/Downloads/Examenes mañana/tester/tester/bin/Debug/net6.0/tourist.dll
+/Users/tony/Downloads/Examenes mañana/tester/tester/bin/Debug/net6.0/tourist.pdb
+/Users/tony/Downloads/Examenes mañana/tester/tester/bin/Debug/net6.0/resolver.pdb
+/Users/tony/Downloads/Examenes mañana/tester/tester/obj/Debug/net6.0/tester.csproj.AssemblyReference.cache
+/Users/tony/Downloads/Examenes mañana/tester/tester/obj/Debug/net6.0/tester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Downloads/Examenes mañana/tester/tester/obj/Debug/net6.0/tester.AssemblyInfoInputs.cache
+/Users/tony/Downloads/Examenes mañana/tester/tester/obj/Debug/net6.0/tester.AssemblyInfo.cs
+/Users/tony/Downloads/Examenes mañana/tester/tester/obj/Debug/net6.0/tester.csproj.CoreCompileInputs.cache
+/Users/tony/Downloads/Examenes mañana/tester/tester/obj/Debug/net6.0/tester.csproj.CopyComplete
+/Users/tony/Downloads/Examenes mañana/tester/tester/obj/Debug/net6.0/tester.dll
+/Users/tony/Downloads/Examenes mañana/tester/tester/obj/Debug/net6.0/ref/tester.dll
+/Users/tony/Downloads/Examenes mañana/tester/tester/obj/Debug/net6.0/tester.pdb
+/Users/tony/Downloads/Examenes mañana/tester/tester/obj/Debug/net6.0/tester.genruntimeconfig.cache
+/Users/tony/Downloads/tourist/tester/tester/bin/Debug/net6.0/tester
+/Users/tony/Downloads/tourist/tester/tester/bin/Debug/net6.0/tester.deps.json
+/Users/tony/Downloads/tourist/tester/tester/bin/Debug/net6.0/tester.runtimeconfig.json
+/Users/tony/Downloads/tourist/tester/tester/bin/Debug/net6.0/tester.dll
+/Users/tony/Downloads/tourist/tester/tester/bin/Debug/net6.0/ref/tester.dll
+/Users/tony/Downloads/tourist/tester/tester/bin/Debug/net6.0/tester.pdb
+/Users/tony/Downloads/tourist/tester/tester/bin/Debug/net6.0/resolver.dll
+/Users/tony/Downloads/tourist/tester/tester/bin/Debug/net6.0/tourist.dll
+/Users/tony/Downloads/tourist/tester/tester/bin/Debug/net6.0/tourist.pdb
+/Users/tony/Downloads/tourist/tester/tester/bin/Debug/net6.0/resolver.pdb
+/Users/tony/Downloads/tourist/tester/tester/obj/Debug/net6.0/tester.csproj.AssemblyReference.cache
+/Users/tony/Downloads/tourist/tester/tester/obj/Debug/net6.0/tester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Downloads/tourist/tester/tester/obj/Debug/net6.0/tester.AssemblyInfoInputs.cache
+/Users/tony/Downloads/tourist/tester/tester/obj/Debug/net6.0/tester.AssemblyInfo.cs
+/Users/tony/Downloads/tourist/tester/tester/obj/Debug/net6.0/tester.csproj.CoreCompileInputs.cache
+/Users/tony/Downloads/tourist/tester/tester/obj/Debug/net6.0/tester.csproj.CopyComplete
+/Users/tony/Downloads/tourist/tester/tester/obj/Debug/net6.0/tester.dll
+/Users/tony/Downloads/tourist/tester/tester/obj/Debug/net6.0/ref/tester.dll
+/Users/tony/Downloads/tourist/tester/tester/obj/Debug/net6.0/tester.pdb
+/Users/tony/Downloads/tourist/tester/tester/obj/Debug/net6.0/tester.genruntimeconfig.cache
+/Users/tony/Documents/wifi/tester/tester/obj/Debug/net6.0/tester.csproj.AssemblyReference.cache
+/Users/tony/Documents/wifi/tester/tester/obj/Debug/net6.0/tester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Documents/wifi/tester/tester/obj/Debug/net6.0/tester.AssemblyInfoInputs.cache
+/Users/tony/Documents/wifi/tester/tester/obj/Debug/net6.0/tester.AssemblyInfo.cs
+/Users/tony/Documents/wifi/tester/tester/obj/Debug/net6.0/tester.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/wifi/tester/tester/obj/Debug/net6.0/tester.dll
+/Users/tony/Documents/wifi/tester/tester/obj/Debug/net6.0/ref/tester.dll
+/Users/tony/Documents/wifi/tester/tester/obj/Debug/net6.0/tester.pdb
+/Users/tony/Documents/wifi/tester/tester/bin/Debug/net6.0/tester
+/Users/tony/Documents/wifi/tester/tester/bin/Debug/net6.0/tester.deps.json
+/Users/tony/Documents/wifi/tester/tester/bin/Debug/net6.0/tester.runtimeconfig.json
+/Users/tony/Documents/wifi/tester/tester/bin/Debug/net6.0/tester.dll
+/Users/tony/Documents/wifi/tester/tester/bin/Debug/net6.0/ref/tester.dll
+/Users/tony/Documents/wifi/tester/tester/bin/Debug/net6.0/tester.pdb
+/Users/tony/Documents/wifi/tester/tester/bin/Debug/net6.0/resolver.dll
+/Users/tony/Documents/wifi/tester/tester/bin/Debug/net6.0/wifi.dll
+/Users/tony/Documents/wifi/tester/tester/bin/Debug/net6.0/wifi.pdb
+/Users/tony/Documents/wifi/tester/tester/bin/Debug/net6.0/resolver.pdb
+/Users/tony/Documents/wifi/tester/tester/obj/Debug/net6.0/tester.csproj.CopyComplete
+/Users/tony/Documents/wifi/tester/tester/obj/Debug/net6.0/tester.genruntimeconfig.cache
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/obj/Debug/net6.0/tester.csproj.AssemblyReference.cache
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/obj/Debug/net6.0/tester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/obj/Debug/net6.0/tester.AssemblyInfoInputs.cache
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/obj/Debug/net6.0/tester.AssemblyInfo.cs
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/obj/Debug/net6.0/tester.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/obj/Debug/net6.0/tester.dll
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/obj/Debug/net6.0/ref/tester.dll
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/obj/Debug/net6.0/tester.pdb
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/bin/Debug/net6.0/tester
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/bin/Debug/net6.0/tester.deps.json
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/bin/Debug/net6.0/tester.runtimeconfig.json
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/bin/Debug/net6.0/tester.dll
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/bin/Debug/net6.0/ref/tester.dll
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/bin/Debug/net6.0/tester.pdb
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/bin/Debug/net6.0/code.dll
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/bin/Debug/net6.0/resolver.dll
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/bin/Debug/net6.0/code.pdb
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/bin/Debug/net6.0/resolver.pdb
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/obj/Debug/net6.0/tester.csproj.CopyComplete
+/Users/tony/Documents/Recursividad/manager - tester/tester/tester/obj/Debug/net6.0/tester.genruntimeconfig.cache
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/obj/Debug/net6.0/tester.csproj.AssemblyReference.cache
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/obj/Debug/net6.0/tester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/obj/Debug/net6.0/tester.AssemblyInfoInputs.cache
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/obj/Debug/net6.0/tester.AssemblyInfo.cs
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/obj/Debug/net6.0/tester.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/obj/Debug/net6.0/tester.dll
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/obj/Debug/net6.0/ref/tester.dll
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/obj/Debug/net6.0/tester.pdb
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/bin/Debug/net6.0/tester
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/bin/Debug/net6.0/tester.deps.json
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/bin/Debug/net6.0/tester.runtimeconfig.json
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/bin/Debug/net6.0/tester.dll
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/bin/Debug/net6.0/ref/tester.dll
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/bin/Debug/net6.0/tester.pdb
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/bin/Debug/net6.0/code.dll
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/bin/Debug/net6.0/resolver.dll
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/bin/Debug/net6.0/code.pdb
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/bin/Debug/net6.0/resolver.pdb
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/obj/Debug/net6.0/tester.csproj.CopyComplete
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/tester/obj/Debug/net6.0/tester.genruntimeconfig.cache
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/bin/Debug/net6.0/tester
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/bin/Debug/net6.0/tester.deps.json
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/bin/Debug/net6.0/tester.runtimeconfig.json
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/bin/Debug/net6.0/tester.dll
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/bin/Debug/net6.0/ref/tester.dll
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/bin/Debug/net6.0/tester.pdb
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/bin/Debug/net6.0/code.dll
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/bin/Debug/net6.0/resolver.dll
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/bin/Debug/net6.0/code.pdb
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/bin/Debug/net6.0/resolver.pdb
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/obj/Debug/net6.0/tester.csproj.AssemblyReference.cache
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/obj/Debug/net6.0/tester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/obj/Debug/net6.0/tester.AssemblyInfoInputs.cache
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/obj/Debug/net6.0/tester.AssemblyInfo.cs
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/obj/Debug/net6.0/tester.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/obj/Debug/net6.0/tester.csproj.CopyComplete
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/obj/Debug/net6.0/tester.dll
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/obj/Debug/net6.0/ref/tester.dll
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/obj/Debug/net6.0/tester.pdb
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/tester/obj/Debug/net6.0/tester.genruntimeconfig.cache
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/bin/Debug/net6.0/tester
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/bin/Debug/net6.0/tester.deps.json
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/bin/Debug/net6.0/tester.runtimeconfig.json
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/bin/Debug/net6.0/tester.dll
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/bin/Debug/net6.0/ref/tester.dll
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/bin/Debug/net6.0/tester.pdb
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/bin/Debug/net6.0/code.dll
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/bin/Debug/net6.0/resolver.dll
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/bin/Debug/net6.0/code.pdb
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/bin/Debug/net6.0/resolver.pdb
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/obj/Debug/net6.0/tester.csproj.AssemblyReference.cache
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/obj/Debug/net6.0/tester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/obj/Debug/net6.0/tester.AssemblyInfoInputs.cache
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/obj/Debug/net6.0/tester.AssemblyInfo.cs
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/obj/Debug/net6.0/tester.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/obj/Debug/net6.0/tester.csproj.CopyComplete
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/obj/Debug/net6.0/tester.dll
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/obj/Debug/net6.0/ref/tester.dll
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/obj/Debug/net6.0/tester.pdb
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/tester/obj/Debug/net6.0/tester.genruntimeconfig.cache
+/Users/tony/Documents/Extra/festival - tester/tester/tester/obj/Debug/net6.0/tester.csproj.AssemblyReference.cache
+/Users/tony/Documents/Extra/festival - tester/tester/tester/obj/Debug/net6.0/tester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Documents/Extra/festival - tester/tester/tester/obj/Debug/net6.0/tester.AssemblyInfoInputs.cache
+/Users/tony/Documents/Extra/festival - tester/tester/tester/obj/Debug/net6.0/tester.AssemblyInfo.cs
+/Users/tony/Documents/Extra/festival - tester/tester/tester/obj/Debug/net6.0/tester.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/Extra/festival - tester/tester/tester/obj/Debug/net6.0/tester.dll
+/Users/tony/Documents/Extra/festival - tester/tester/tester/obj/Debug/net6.0/ref/tester.dll
+/Users/tony/Documents/Extra/festival - tester/tester/tester/obj/Debug/net6.0/tester.pdb
+/Users/tony/Documents/Extra/festival - tester/tester/tester/bin/Debug/net6.0/tester
+/Users/tony/Documents/Extra/festival - tester/tester/tester/bin/Debug/net6.0/tester.deps.json
+/Users/tony/Documents/Extra/festival - tester/tester/tester/bin/Debug/net6.0/tester.runtimeconfig.json
+/Users/tony/Documents/Extra/festival - tester/tester/tester/bin/Debug/net6.0/tester.dll
+/Users/tony/Documents/Extra/festival - tester/tester/tester/bin/Debug/net6.0/ref/tester.dll
+/Users/tony/Documents/Extra/festival - tester/tester/tester/bin/Debug/net6.0/tester.pdb
+/Users/tony/Documents/Extra/festival - tester/tester/tester/bin/Debug/net6.0/code.dll
+/Users/tony/Documents/Extra/festival - tester/tester/tester/bin/Debug/net6.0/resolver.dll
+/Users/tony/Documents/Extra/festival - tester/tester/tester/bin/Debug/net6.0/code.pdb
+/Users/tony/Documents/Extra/festival - tester/tester/tester/bin/Debug/net6.0/resolver.pdb
+/Users/tony/Documents/Extra/festival - tester/tester/tester/obj/Debug/net6.0/tester.csproj.CopyComplete
+/Users/tony/Documents/Extra/festival - tester/tester/tester/obj/Debug/net6.0/tester.genruntimeconfig.cache
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/tester/obj/Debug/net6.0/tester.dll
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/tester/obj/Debug/net6.0/tester.pdb
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/tester/obj/Debug/net6.0/tester.csproj.AssemblyReference.cache
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/tester/obj/Debug/net6.0/tester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/tester/obj/Debug/net6.0/tester.AssemblyInfoInputs.cache
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/tester/obj/Debug/net6.0/tester.AssemblyInfo.cs
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/tester/obj/Debug/net6.0/tester.csproj.CoreCompileInputs.cache

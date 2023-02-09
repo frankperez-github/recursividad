@@ -1,0 +1,15 @@
+/Users/frankperez24/Desktop/Recursividad/PropuestaMatrimonio/bin/Debug/net7.0/PropuestaMatrimonio
+/Users/frankperez24/Desktop/Recursividad/PropuestaMatrimonio/bin/Debug/net7.0/PropuestaMatrimonio.deps.json
+/Users/frankperez24/Desktop/Recursividad/PropuestaMatrimonio/bin/Debug/net7.0/PropuestaMatrimonio.runtimeconfig.json
+/Users/frankperez24/Desktop/Recursividad/PropuestaMatrimonio/bin/Debug/net7.0/PropuestaMatrimonio.dll
+/Users/frankperez24/Desktop/Recursividad/PropuestaMatrimonio/bin/Debug/net7.0/PropuestaMatrimonio.pdb
+/Users/frankperez24/Desktop/Recursividad/PropuestaMatrimonio/obj/Debug/net7.0/PropuestaMatrimonio.csproj.AssemblyReference.cache
+/Users/frankperez24/Desktop/Recursividad/PropuestaMatrimonio/obj/Debug/net7.0/PropuestaMatrimonio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frankperez24/Desktop/Recursividad/PropuestaMatrimonio/obj/Debug/net7.0/PropuestaMatrimonio.AssemblyInfoInputs.cache
+/Users/frankperez24/Desktop/Recursividad/PropuestaMatrimonio/obj/Debug/net7.0/PropuestaMatrimonio.AssemblyInfo.cs
+/Users/frankperez24/Desktop/Recursividad/PropuestaMatrimonio/obj/Debug/net7.0/PropuestaMatrimonio.csproj.CoreCompileInputs.cache
+/Users/frankperez24/Desktop/Recursividad/PropuestaMatrimonio/obj/Debug/net7.0/PropuestaMatrimonio.dll
+/Users/frankperez24/Desktop/Recursividad/PropuestaMatrimonio/obj/Debug/net7.0/refint/PropuestaMatrimonio.dll
+/Users/frankperez24/Desktop/Recursividad/PropuestaMatrimonio/obj/Debug/net7.0/PropuestaMatrimonio.pdb
+/Users/frankperez24/Desktop/Recursividad/PropuestaMatrimonio/obj/Debug/net7.0/PropuestaMatrimonio.genruntimeconfig.cache
+/Users/frankperez24/Desktop/Recursividad/PropuestaMatrimonio/obj/Debug/net7.0/ref/PropuestaMatrimonio.dll

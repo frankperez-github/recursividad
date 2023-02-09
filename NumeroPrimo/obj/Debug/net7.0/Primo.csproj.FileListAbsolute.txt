@@ -1,0 +1,15 @@
+/Users/frankperez24/Desktop/Recursividad/Primo/bin/Debug/net7.0/Primo
+/Users/frankperez24/Desktop/Recursividad/Primo/bin/Debug/net7.0/Primo.deps.json
+/Users/frankperez24/Desktop/Recursividad/Primo/bin/Debug/net7.0/Primo.runtimeconfig.json
+/Users/frankperez24/Desktop/Recursividad/Primo/bin/Debug/net7.0/Primo.dll
+/Users/frankperez24/Desktop/Recursividad/Primo/bin/Debug/net7.0/Primo.pdb
+/Users/frankperez24/Desktop/Recursividad/Primo/obj/Debug/net7.0/Primo.csproj.AssemblyReference.cache
+/Users/frankperez24/Desktop/Recursividad/Primo/obj/Debug/net7.0/Primo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frankperez24/Desktop/Recursividad/Primo/obj/Debug/net7.0/Primo.AssemblyInfoInputs.cache
+/Users/frankperez24/Desktop/Recursividad/Primo/obj/Debug/net7.0/Primo.AssemblyInfo.cs
+/Users/frankperez24/Desktop/Recursividad/Primo/obj/Debug/net7.0/Primo.csproj.CoreCompileInputs.cache
+/Users/frankperez24/Desktop/Recursividad/Primo/obj/Debug/net7.0/Primo.dll
+/Users/frankperez24/Desktop/Recursividad/Primo/obj/Debug/net7.0/refint/Primo.dll
+/Users/frankperez24/Desktop/Recursividad/Primo/obj/Debug/net7.0/Primo.pdb
+/Users/frankperez24/Desktop/Recursividad/Primo/obj/Debug/net7.0/Primo.genruntimeconfig.cache
+/Users/frankperez24/Desktop/Recursividad/Primo/obj/Debug/net7.0/ref/Primo.dll

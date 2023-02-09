@@ -1,0 +1,15 @@
+/Users/frankperez24/Desktop/Recursividad/rellenandoTablero/bin/Debug/net7.0/rellenandoTablero
+/Users/frankperez24/Desktop/Recursividad/rellenandoTablero/bin/Debug/net7.0/rellenandoTablero.deps.json
+/Users/frankperez24/Desktop/Recursividad/rellenandoTablero/bin/Debug/net7.0/rellenandoTablero.runtimeconfig.json
+/Users/frankperez24/Desktop/Recursividad/rellenandoTablero/bin/Debug/net7.0/rellenandoTablero.dll
+/Users/frankperez24/Desktop/Recursividad/rellenandoTablero/bin/Debug/net7.0/rellenandoTablero.pdb
+/Users/frankperez24/Desktop/Recursividad/rellenandoTablero/obj/Debug/net7.0/rellenandoTablero.csproj.AssemblyReference.cache
+/Users/frankperez24/Desktop/Recursividad/rellenandoTablero/obj/Debug/net7.0/rellenandoTablero.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frankperez24/Desktop/Recursividad/rellenandoTablero/obj/Debug/net7.0/rellenandoTablero.AssemblyInfoInputs.cache
+/Users/frankperez24/Desktop/Recursividad/rellenandoTablero/obj/Debug/net7.0/rellenandoTablero.AssemblyInfo.cs
+/Users/frankperez24/Desktop/Recursividad/rellenandoTablero/obj/Debug/net7.0/rellenandoTablero.csproj.CoreCompileInputs.cache
+/Users/frankperez24/Desktop/Recursividad/rellenandoTablero/obj/Debug/net7.0/rellenandoTablero.dll
+/Users/frankperez24/Desktop/Recursividad/rellenandoTablero/obj/Debug/net7.0/refint/rellenandoTablero.dll
+/Users/frankperez24/Desktop/Recursividad/rellenandoTablero/obj/Debug/net7.0/rellenandoTablero.pdb
+/Users/frankperez24/Desktop/Recursividad/rellenandoTablero/obj/Debug/net7.0/rellenandoTablero.genruntimeconfig.cache
+/Users/frankperez24/Desktop/Recursividad/rellenandoTablero/obj/Debug/net7.0/ref/rellenandoTablero.dll

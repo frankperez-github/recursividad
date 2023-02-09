@@ -1,0 +1,12 @@
+/Users/frankperez24/Desktop/Recursividad/festival/festival/bin/Debug/net7.0/festival.deps.json
+/Users/frankperez24/Desktop/Recursividad/festival/festival/bin/Debug/net7.0/festival.dll
+/Users/frankperez24/Desktop/Recursividad/festival/festival/bin/Debug/net7.0/festival.pdb
+/Users/frankperez24/Desktop/Recursividad/festival/festival/obj/Debug/net7.0/festival.csproj.AssemblyReference.cache
+/Users/frankperez24/Desktop/Recursividad/festival/festival/obj/Debug/net7.0/festival.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frankperez24/Desktop/Recursividad/festival/festival/obj/Debug/net7.0/festival.AssemblyInfoInputs.cache
+/Users/frankperez24/Desktop/Recursividad/festival/festival/obj/Debug/net7.0/festival.AssemblyInfo.cs
+/Users/frankperez24/Desktop/Recursividad/festival/festival/obj/Debug/net7.0/festival.csproj.CoreCompileInputs.cache
+/Users/frankperez24/Desktop/Recursividad/festival/festival/obj/Debug/net7.0/festival.dll
+/Users/frankperez24/Desktop/Recursividad/festival/festival/obj/Debug/net7.0/refint/festival.dll
+/Users/frankperez24/Desktop/Recursividad/festival/festival/obj/Debug/net7.0/festival.pdb
+/Users/frankperez24/Desktop/Recursividad/festival/festival/obj/Debug/net7.0/ref/festival.dll

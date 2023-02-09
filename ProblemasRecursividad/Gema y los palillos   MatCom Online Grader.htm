@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="UTF-8">
+        <meta name="description" content="Matcom Online Grader. Programming contests, algorithms and mathematics.">
+        <meta name="keywords" content="programming algorithm contest competition informatics olympiads c++ java python graphs matcom havana habana">
+        <title>Gema y los palillos | MatCom Online Grader</title>
+        <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://programacion.matcom.uh.cu/static/mog/images/favicon.ico">
+        <link href="Gema%20y%20los%20palillos%20%20%20MatCom%20Online%20Grader_files/bootstrap.css" rel="stylesheet">
+        <link href="Gema%20y%20los%20palillos%20%20%20MatCom%20Online%20Grader_files/body.css" rel="stylesheet">
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script type="text/javascript" async="" src="Gema%20y%20los%20palillos%20%20%20MatCom%20Online%20Grader_files/analytics.js"></script><script async="" src="Gema%20y%20los%20palillos%20%20%20MatCom%20Online%20Grader_files/js"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-108230808-1');
+        </script>
+
+        
+            <script type="text/x-mathjax-config;executed=true">
+                MathJax.Hub.Config({
+                    extensions: ["tex2jax.js"],
+                    jax: ["input/TeX", "output/HTML-CSS"],
+                    tex2jax: {
+                        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+                        processEscapes: true
+                    },
+                    "HTML-CSS": { availableFonts: ["TeX"] }
+                });
+            </script>
+        
+
+
+
+        
+            
+        
+
+        <style>
+            .no-underline {
+                text-decoration: none !important;
+            }
+
+            /* USED IN HOME */
+            .first-post {
+                margin-top: 0 !important;
+            }
+
+            /* USED IN SUBMIT */
+            .CodeMirror {
+                border: 1px solid #DDD;
+                height: auto;
+            }
+
+            /* COMMENTS */
+            img.media-object {
+                height: 64px; width: 64px;
+            }
+
+            /* BIG TITLE IN SOME PAGES */
+            h1.title, h2.title, h3.title, h4.title, h5.title {
+                margin-top: 0 !important;
+            }
+
+            /* UNIFORM TEXT (used as small/medium titles) */
+            .uniform-text {
+                font-weight: bold;
+                color: #999;
+                text-transform: uppercase;
+            }
+
+            .uniform-text.uniform-small {  font-size: 11px; }
+            .uniform-text.uniform-medium { font-size: 13px; }
+            .uniform-text.uniform-big { font-size: 15px; }
+
+            /* MARGIN  SHORTCUTS */
+            .margin-left-0 { margin-left: 25px !important; }
+            .margin-left-5 { margin-left: 25px !important; }
+            .margin-left-10 { margin-left: 25px !important; }
+            .margin-left-15 { margin-left: 25px !important; }
+            .margin-left-20 { margin-left: 25px !important; }
+            .margin-left-25 { margin-left: 25px !important; }
+
+            .margin-top-0 { margin-top: 0px !important; }
+            .margin-top-5 { margin-top: 5px !important; }
+            .margin-top-10 { margin-top: 10px !important; }
+            .margin-top-15 { margin-top: 15px !important; }
+            .margin-top-20 { margin-top: 20px !important; }
+            .margin-top-25 { margin-top: 25px !important; }
+
+            .margin-bottom-0 { margin-bottom: 0px !important; }
+            .margin-bottom-5 { margin-bottom: 5px !important; }
+            .margin-bottom-10 { margin-bottom: 10px !important; }
+            .margin-bottom-15 { margin-bottom: 15px !important; }
+            .margin-bottom-20 { margin-bottom: 20px !important; }
+            .margin-bottom-25 { margin-bottom: 25px !important; }
+
+            .padding-0 { padding: 0 !important; }
+            .margin-0 { margin: 0 !important; }
+
+            /* Used mostly in wells */
+            .bckg-white {
+                background-color: white !important;
+            }
+
+            /* Contest Standing */
+            .problem-solved { background-color: #DFF0D8; color: #468847; }
+            .problem-failed { background-color: #F2DEDE; color: #B94A48; }
+            .problem-solved-first { background-color: #B9D4AC; color: #39703A; }
+            .contest-solved-first { background-color: #d49836; color: #704e1b; }
+
+            .token-input-list-facebook {
+                width: 100% !important;
+            }
+        </style>
+    <style type="text/css">.MathJax_Preview {color: #888}
+#MathJax_Message {position: fixed; left: 1px; bottom: 2px; background-color: #E6E6E6; border: 1px solid #959595; margin: 0px; padding: 2px 8px; z-index: 102; color: black; font-size: 80%; width: auto; white-space: nowrap}
+#MathJax_MSIE_Frame {position: absolute; top: 0; left: 0; width: 0px; z-index: 101; border: 0px; margin: 0px; padding: 0px}
+.MathJax_Error {color: #CC0000; font-style: italic}
+</style><style type="text/css">.MathJax_Hover_Frame {border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -khtml-border-radius: .25em; box-shadow: 0px 0px 15px #83A; -webkit-box-shadow: 0px 0px 15px #83A; -moz-box-shadow: 0px 0px 15px #83A; -khtml-box-shadow: 0px 0px 15px #83A; border: 1px solid #A6D ! important; display: inline-block; position: absolute}
+.MathJax_Menu_Button .MathJax_Hover_Arrow {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; -khtml-border-radius: 4px; font-family: 'Courier New',Courier; font-size: 9px; color: #F0F0F0}
+.MathJax_Menu_Button .MathJax_Hover_Arrow span {display: block; background-color: #AAA; border: 1px solid; border-radius: 3px; line-height: 0; padding: 4px}
+.MathJax_Hover_Arrow:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_Hover_Arrow:hover span {background-color: #CCC!important}
+</style><style type="text/css">.MathJax_Display {text-align: center; margin: 1em 0em; position: relative; display: block!important; text-indent: 0; max-width: none; max-height: none; min-width: 0; min-height: 0; width: 100%}
+.MathJax .merror {background-color: #FFFF88; color: #CC0000; border: 1px solid #CC0000; padding: 1px 3px; font-style: normal; font-size: 90%}
+.MathJax .MJX-monospace {font-family: monospace}
+.MathJax .MJX-sans-serif {font-family: sans-serif}
+#MathJax_Tooltip {background-color: InfoBackground; color: InfoText; border: 1px solid black; box-shadow: 2px 2px 5px #AAAAAA; -webkit-box-shadow: 2px 2px 5px #AAAAAA; -moz-box-shadow: 2px 2px 5px #AAAAAA; -khtml-box-shadow: 2px 2px 5px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true'); padding: 3px 4px; z-index: 401; position: absolute; left: 0; top: 0; width: auto; height: auto; display: none}
+.MathJax {display: inline; font-style: normal; font-weight: normal; line-height: normal; font-size: 100%; font-size-adjust: none; text-indent: 0; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0; min-height: 0; border: 0; padding: 0; margin: 0}
+.MathJax:focus, body :focus .MathJax {display: inline-table}
+.MathJax img, .MathJax nobr, .MathJax a {border: 0; padding: 0; margin: 0; max-width: none; max-height: none; min-width: 0; min-height: 0; vertical-align: 0; line-height: normal; text-decoration: none}
+img.MathJax_strut {border: 0!important; padding: 0!important; margin: 0!important; vertical-align: 0!important}
+.MathJax span {display: inline; position: static; border: 0; padding: 0; margin: 0; vertical-align: 0; line-height: normal; text-decoration: none}
+.MathJax nobr {white-space: nowrap!important}
+.MathJax img {display: inline!important; float: none!important}
+.MathJax * {transition: none; -webkit-transition: none; -moz-transition: none; -ms-transition: none; -o-transition: none}
+.MathJax_Processing {visibility: hidden; position: fixed; width: 0; height: 0; overflow: hidden}
+.MathJax_Processed {display: none!important}
+.MathJax_ExBox {display: block!important; overflow: hidden; width: 1px; height: 60ex; min-height: 0; max-height: none}
+.MathJax .MathJax_EmBox {display: block!important; overflow: hidden; width: 1px; height: 60em; min-height: 0; max-height: none}
+.MathJax .MathJax_HitBox {cursor: text; background: white; opacity: 0; filter: alpha(opacity=0)}
+.MathJax .MathJax_HitBox * {filter: none; opacity: 1; background: transparent}
+#MathJax_Tooltip * {filter: none; opacity: 1; background: transparent}
+@font-face {font-family: MathJax_Main; src: url('http://programacion.matcom.uh.cu/static/mog/plugins/MathJax/../fonts/HTML-CSS/TeX/woff/MathJax_Main-Regular.woff?rev=2.6.1') format('woff'), url('http://programacion.matcom.uh.cu/static/mog/plugins/MathJax/../fonts/HTML-CSS/TeX/otf/MathJax_Main-Regular.otf?rev=2.6.1') format('opentype')}
+@font-face {font-family: MathJax_Main; src: url('http://programacion.matcom.uh.cu/static/mog/plugins/MathJax/../fonts/HTML-CSS/TeX/woff/MathJax_Main-Bold.woff?rev=2.6.1') format('woff'), url('http://programacion.matcom.uh.cu/static/mog/plugins/MathJax/../fonts/HTML-CSS/TeX/otf/MathJax_Main-Bold.otf?rev=2.6.1') format('opentype'); font-weight: bold}
+@font-face {font-family: MathJax_Main; src: url('http://programacion.matcom.uh.cu/static/mog/plugins/MathJax/../fonts/HTML-CSS/TeX/woff/MathJax_Main-Italic.woff?rev=2.6.1') format('woff'), url('http://programacion.matcom.uh.cu/static/mog/plugins/MathJax/../fonts/HTML-CSS/TeX/otf/MathJax_Main-Italic.otf?rev=2.6.1') format('opentype'); font-style: italic}
+@font-face {font-family: MathJax_Math; src: url('http://programacion.matcom.uh.cu/static/mog/plugins/MathJax/../fonts/HTML-CSS/TeX/woff/MathJax_Math-Italic.woff?rev=2.6.1') format('woff'), url('http://programacion.matcom.uh.cu/static/mog/plugins/MathJax/../fonts/HTML-CSS/TeX/otf/MathJax_Math-Italic.otf?rev=2.6.1') format('opentype'); font-style: italic}
+@font-face {font-family: MathJax_Caligraphic; src: url('http://programacion.matcom.uh.cu/static/mog/plugins/MathJax/../fonts/HTML-CSS/TeX/woff/MathJax_Caligraphic-Regular.woff?rev=2.6.1') format('woff'), url('http://programacion.matcom.uh.cu/static/mog/plugins/MathJax/../fonts/HTML-CSS/TeX/otf/MathJax_Caligraphic-Regular.otf?rev=2.6.1') format('opentype')}
+@font-face {font-family: MathJax_Size1; src: url('http://programacion.matcom.uh.cu/static/mog/plugins/MathJax/../fonts/HTML-CSS/TeX/woff/MathJax_Size1-Regular.woff?rev=2.6.1') format('woff'), url('http://programacion.matcom.uh.cu/static/mog/plugins/MathJax/../fonts/HTML-CSS/TeX/otf/MathJax_Size1-Regular.otf?rev=2.6.1') format('opentype')}
+@font-face {font-family: MathJax_Size2; src: url('http://programacion.matcom.uh.cu/static/mog/plugins/MathJax/../fonts/HTML-CSS/TeX/woff/MathJax_Size2-Regular.woff?rev=2.6.1') format('woff'), url('http://programacion.matcom.uh.cu/static/mog/plugins/MathJax/../fonts/HTML-CSS/TeX/otf/MathJax_Size2-Regular.otf?rev=2.6.1') format('opentype')}
+@font-face {font-family: MathJax_Size3; src: url('http://programacion.matcom.uh.cu/static/mog/plugins/MathJax/../fonts/HTML-CSS/TeX/woff/MathJax_Size3-Regular.woff?rev=2.6.1') format('woff'), url('http://programacion.matcom.uh.cu/static/mog/plugins/MathJax/../fonts/HTML-CSS/TeX/otf/MathJax_Size3-Regular.otf?rev=2.6.1') format('opentype')}
+@font-face {font-family: MathJax_Size4; src: url('http://programacion.matcom.uh.cu/static/mog/plugins/MathJax/../fonts/HTML-CSS/TeX/woff/MathJax_Size4-Regular.woff?rev=2.6.1') format('woff'), url('http://programacion.matcom.uh.cu/static/mog/plugins/MathJax/../fonts/HTML-CSS/TeX/otf/MathJax_Size4-Regular.otf?rev=2.6.1') format('opentype')}
+</style><style type="text/css">#MathJax_About {position: fixed; left: 50%; width: auto; text-align: center; border: 3px outset; padding: 1em 2em; background-color: #DDDDDD; color: black; cursor: default; font-family: message-box; font-size: 120%; font-style: normal; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -khtml-border-radius: 15px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_About.MathJax_MousePost {outline: none}
+.MathJax_Menu {position: absolute; background-color: white; color: black; width: auto; padding: 2px; border: 1px solid #CCCCCC; margin: 0; cursor: default; font: menu; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+.MathJax_MenuItem {padding: 2px 2em; background: transparent}
+.MathJax_MenuArrow {position: absolute; right: .5em; padding-top: .25em; color: #666666; font-size: .75em}
+.MathJax_MenuActive .MathJax_MenuArrow {color: white}
+.MathJax_MenuArrow.RTL {left: .5em; right: auto}
+.MathJax_MenuCheck {position: absolute; left: .7em}
+.MathJax_MenuCheck.RTL {right: .7em; left: auto}
+.MathJax_MenuRadioCheck {position: absolute; left: 1em}
+.MathJax_MenuRadioCheck.RTL {right: 1em; left: auto}
+.MathJax_MenuLabel {padding: 2px 2em 4px 1.33em; font-style: italic}
+.MathJax_MenuRule {border-top: 1px solid #CCCCCC; margin: 4px 1px 0px}
+.MathJax_MenuDisabled {color: GrayText}
+.MathJax_MenuActive {background-color: Highlight; color: HighlightText}
+.MathJax_MenuDisabled:focus, .MathJax_MenuLabel:focus {background-color: #E8E8E8}
+.MathJax_ContextMenu:focus {outline: none}
+.MathJax_ContextMenu .MathJax_MenuItem:focus {outline: none}
+#MathJax_AboutClose {top: .2em; right: .2em}
+.MathJax_Menu .MathJax_MenuClose {top: -10px; left: -10px}
+.MathJax_MenuClose {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; font-family: 'Courier New',Courier; font-size: 24px; color: #F0F0F0}
+.MathJax_MenuClose span {display: block; background-color: #AAA; border: 1.5px solid; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; line-height: 0; padding: 8px 0 6px}
+.MathJax_MenuClose:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_MenuClose:hover span {background-color: #CCC!important}
+.MathJax_MenuClose:hover:focus {outline: none}
+</style><style type="text/css">#MathJax_Zoom {position: absolute; background-color: #F0F0F0; overflow: auto; display: block; z-index: 301; padding: .5em; border: 1px solid black; margin: 0; font-weight: normal; font-style: normal; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; box-shadow: 5px 5px 15px #AAAAAA; -webkit-box-shadow: 5px 5px 15px #AAAAAA; -moz-box-shadow: 5px 5px 15px #AAAAAA; -khtml-box-shadow: 5px 5px 15px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_ZoomOverlay {position: absolute; left: 0; top: 0; z-index: 300; display: inline-block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+#MathJax_ZoomFrame {position: relative; display: inline-block; height: 0; width: 0}
+#MathJax_ZoomEventTrap {position: absolute; left: 0; top: 0; z-index: 302; display: inline-block; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+</style></head>
+
+    <body><div style="visibility: hidden; overflow: hidden; position: absolute; top: 0px; height: 1px; width: auto; padding: 0px; border: 0px none; margin: 0px; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal;"><div id="MathJax_Hidden"></div></div><div id="MathJax_Message" style="display: none;"></div>
+        <nav class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a href="http://programacion.matcom.uh.cu/">Home</a></li>
+                        <li><a href="http://programacion.matcom.uh.cu/users/">Users</a></li>
+                        <li><a href="http://programacion.matcom.uh.cu/problems/">Problems</a></li>
+                        <li><a href="http://programacion.matcom.uh.cu/contests/">Contests</a></li>
+                        <li><a href="http://programacion.matcom.uh.cu/posts/">Posts</a></li>
+                        <li><a href="http://programacion.matcom.uh.cu/submissions/">Submissions</a></li>
+                        <li><a href="http://programacion.matcom.uh.cu/faq/">FAQ</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        
+                            ﻿
+
+
+    <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            xavi
+            
+            <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+            <li><a href="http://programacion.matcom.uh.cu/user/messages/4955/"><i class="glyphicon glyphicon-envelope"></i> Messages</a></li>
+            <li class="divider"></li>
+            <li><a href="http://programacion.matcom.uh.cu/user/4955/"><i class="glyphicon glyphicon-user"></i> View profile</a></li>
+            <li><a href="http://programacion.matcom.uh.cu/user/edit/4955/"><i class="glyphicon glyphicon-edit"></i> Edit profile</a></li>
+            <li><a href="http://programacion.matcom.uh.cu/post/create"><i class="glyphicon glyphicon-pencil"></i> Add blog entry</a></li>
+            <li class="divider"></li>
+            <li><a href="http://programacion.matcom.uh.cu/logout/?next=/"><i class="glyphicon glyphicon-off"></i> Logout</a></li>
+        </ul>
+    </li>
+
+
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <div class="container">
+            <div class="row">
+                <div class="page-header">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <a href="http://programacion.matcom.uh.cu/">
+                                
+                                
+                                    <img src="Gema%20y%20los%20palillos%20%20%20MatCom%20Online%20Grader_files/logo.png" class="img-responsive" alt="MOG">
+                                
+                            </a>
+                        </div>
+                        <div class="col-md-9">
+                            <div class="pull-right">
+                                <form action="/i18n/setlang/" method="post" style="display: inline-block;">
+                                    <input type="hidden" name="csrfmiddlewaretoken" value="LuIzRNW0RrXRiBkNAR2kk3zBfCDThlzCQBd2lTVAGW5O7mlPaAhgkDOxBokP2PRw">
+                                    <input type="hidden" name="language" value="es">
+                                    <a href="javascript:;" class="no-underline" onclick="this.parentNode.submit();">
+                                        <img src="Gema%20y%20los%20palillos%20%20%20MatCom%20Online%20Grader_files/spa-flag.png" alt="Spanish" class="flagSizeSmall">
+                                    </a>
+                                </form>
+                                |
+                                <form action="/i18n/setlang/" method="post" style="display: inline-block;">
+                                    <input type="hidden" name="csrfmiddlewaretoken" value="LuIzRNW0RrXRiBkNAR2kk3zBfCDThlzCQBd2lTVAGW5O7mlPaAhgkDOxBokP2PRw">
+                                    <input type="hidden" name="language" value="en">
+                                    <a href="javascript:;" class="no-underline" onclick="this.parentNode.submit();">
+                                        <img src="Gema%20y%20los%20palillos%20%20%20MatCom%20Online%20Grader_files/eng-flag.png" alt="English" class="flagSizeSmall">
+                                    </a>
+                                </form>
+                            </div>
+                            <h1>
+                                Matcom Online Grader<br>
+                                <small>Faculty of Mathematics and Computer Science of University of Havana</small>
+                            </h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            
+                
+    <div class="row">
+        <div class="col-md-12">
+            
+                <div class="alert alert-info secure info alert-dismissible fade in" role="alert">
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                    
+                        <p><a href="http://programacion.matcom.uh.cu/user/edit/4955/">Please edit your profile and fill incomplete fields (avatar)</a></p>
+                    
+                </div>
+            
+        </div>
+    </div>
+
+
+            
+
+            
+                <div class="row">
+                    <div class="col-md-3">
+                        
+    
+
+
+
+
+
+<div class="row">
+    <div class="col-md-12">
+        <table class="table table-bordered">
+            <tbody>
+                <tr>
+                    <td>
+                        <div class="text-center">
+                            <h3>
+                                <a href="http://programacion.matcom.uh.cu/contest/problems/6206" class="no-underline">
+                                    Contest 3 (2017-2018)
+                                </a>
+                            </h3>
+
+                            
+                                
+                                    
+                                        <h5>Ended</h5>
+                                    
+                                
+                            
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <ul class="nav nav-pills nav-stacked">
+                            <li class="">
+                                <a href="http://programacion.matcom.uh.cu/contest/problems/6206">
+                                    <i class="glyphicon glyphicon-list-alt"></i> Problems
+                                </a>
+                            </li>
+                            <li class="">
+                                <a href="http://programacion.matcom.uh.cu/contest/standing/6206">
+                                    <i class="glyphicon glyphicon-signal"></i> Standing
+                                </a>
+                            </li>
+                            <li class="">
+                                <a href="http://programacion.matcom.uh.cu/contest/submissions/6206">
+                                    <i class="glyphicon glyphicon-road"></i> Submissions
+                                </a>
+                            </li>
+                            <li class="">
+                                
+                                    <a href="http://programacion.matcom.uh.cu/submit/9200/">
+                                        <i class="glyphicon glyphicon-envelope"></i> Submit
+                                    </a>
+                                
+                            </li>
+                        </ul>
+                    </td>
+                </tr>
+                
+            </tbody>
+        </table>
+    </div>
+
+    
+</div>
+
+                    </div>
+                    <div class="col-md-9">
+                        <section>
+                            
+    <div class="row">
+        <div class="row text-center">
+            <div class="col-md-12">
+                <h3 class="title">B - Gema y los palillos</h3>
+            </div>
+
+            
+
+            <div class="col-md-12">
+                <h5>Time limit: 1 second</h5>
+                <h5>Memory limit: 128 megabytes</h5>
+                <h5>Languages: C#
+                    
+                </h5>
+            </div>
+
+            <div class="col-md-12 margin-bottom-10">
+                <ul class="nav nav-pills nav-justified">
+                    <li role="presentation">
+                        <a href="http://programacion.matcom.uh.cu/contest/submissions/6206?problem=Gema%20y%20los%20palillos">All submissions</a>
+                    </li>
+                    <li role="presentation">
+                        <a href="http://programacion.matcom.uh.cu/contest/submissions/6206?problem=Gema%20y%20los%20palillos&amp;result=1">
+                            Accepted submissions
+                        </a>
+                    </li>
+                    
+                        <li role="presentation">
+                            <a href="http://programacion.matcom.uh.cu/contest/submissions/6206?problem=Gema%20y%20los%20palillos&amp;username=xavi">
+                                My submissions
+                            </a>
+                        </li>
+                        <li role="presentation">
+                            <a href="http://programacion.matcom.uh.cu/media/problem/pdf/9200/9200.pdf">PDF</a>
+                        </li>
+                    
+                    <li role="presentation"><a href="http://programacion.matcom.uh.cu/submit/9200/">Submit</a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="body" class="col-md-12">
+            <p>Gema cuenta con <span class="MathJax_Preview"></span><span class="MathJax" id="MathJax-Element-1-Frame" tabindex="0" style=""><nobr><span class="math" id="MathJax-Span-1" role="math" style="width: 8.089em; display: inline-block;"><span style="display: inline-block; position: relative; width: 6.726em; height: 0px; font-size: 120%;"><span style="position: absolute; clip: rect(1.393em, 1006.63em, 2.75em, -1000em); top: -2.321em; left: 0em;"><span class="mrow" id="MathJax-Span-2"><span class="mi" id="MathJax-Span-3" style="font-family: MathJax_Math; font-style: italic;">N<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.085em;"></span></span><span class="mo" id="MathJax-Span-4" style="font-family: MathJax_Main;">(</span><span class="mn" id="MathJax-Span-5" style="font-family: MathJax_Main;">1</span><span class="mo" id="MathJax-Span-6" style="font-family: MathJax_Main; padding-left: 0.278em;">≤</span><span class="mi" id="MathJax-Span-7" style="font-family: MathJax_Math; font-style: italic; padding-left: 0.278em;">N<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.085em;"></span></span><span class="mo" id="MathJax-Span-8" style="font-family: MathJax_Main; padding-left: 0.278em;">≤</span><span class="mn" id="MathJax-Span-9" style="font-family: MathJax_Main; padding-left: 0.278em;">15</span><span class="mo" id="MathJax-Span-10" style="font-family: MathJax_Main;">)</span></span><span style="display: inline-block; width: 0px; height: 2.321em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.371em; border-left: 0px solid; width: 0px; height: 1.343em;"></span></span></nobr></span><script type="math/tex" id="MathJax-Element-1">N (1\le N\le 15)</script>
+ palillos no necesariamente todos de igual longitud y como está aburrida
+ decide intentar formar con ellos un cuadrado utilizando 
+cada palillo exactamente una vez en alguno de los lados del cuadrado.</p><p style="text-align: center;"><img style="width: 221px; float: none; height: 221px;" src="data:image/jpeg;base64,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" data-filename="palillos.jpg" class=""></p><p style="text-align: justify;">A
+ ella no le gusta esforzarse y no lograr ningún resultado, por lo que 
+quisiera saber si con los palillos que tiene se puede lograr esto. Como 
+ella es demasiado vaga y sabe que tú estudias <span style="font-weight: bold;">Ciencias de la Computación</span> en la <span style="font-weight: bold;">Universidad de la Habana</span> te pide ayuda con este problema. ¿Crees que puedas ayudarla?<br></p><p></p>
+        </div>
+
+        <div id="input" class="col-md-12">
+            <h4 class="text-center">Input</h4>
+            <p><span style="text-decoration-line: underline;">Línea 1</span>: Un entero <span class="MathJax_Preview"></span><span class="MathJax" id="MathJax-Element-2-Frame" tabindex="0" style=""><nobr><span class="math" id="MathJax-Span-11" role="math" style="width: 1.089em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.893em; height: 0px; font-size: 120%;"><span style="position: absolute; clip: rect(1.46em, 1000.89em, 2.5em, -1000em); top: -2.321em; left: 0em;"><span class="mrow" id="MathJax-Span-12"><span class="mi" id="MathJax-Span-13" style="font-family: MathJax_Math; font-style: italic;">N<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.085em;"></span></span></span><span style="display: inline-block; width: 0px; height: 2.321em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.071em; border-left: 0px solid; width: 0px; height: 0.962em;"></span></span></nobr></span><script type="math/tex" id="MathJax-Element-2">N</script> representando la cantidad de palillos.<br><span style="text-decoration-line: underline;">Línea 2</span>: <span class="MathJax_Preview"></span><span class="MathJax" id="MathJax-Element-3-Frame" tabindex="0" style=""><nobr><span class="math" id="MathJax-Span-14" role="math" style="width: 1.089em; display: inline-block;"><span style="display: inline-block; position: relative; width: 0.893em; height: 0px; font-size: 120%;"><span style="position: absolute; clip: rect(1.46em, 1000.89em, 2.5em, -1000em); top: -2.321em; left: 0em;"><span class="mrow" id="MathJax-Span-15"><span class="mi" id="MathJax-Span-16" style="font-family: MathJax_Math; font-style: italic;">N<span style="display: inline-block; overflow: hidden; height: 1px; width: 0.085em;"></span></span></span><span style="display: inline-block; width: 0px; height: 2.321em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.071em; border-left: 0px solid; width: 0px; height: 0.962em;"></span></span></nobr></span><script type="math/tex" id="MathJax-Element-3">N</script> enteros positivos representando las longitudes de los palillos. Estos valores son menores que <span class="MathJax_Preview"></span><span class="MathJax" id="MathJax-Element-4-Frame" tabindex="0" style=""><nobr><span class="math" id="MathJax-Span-17" role="math" style="width: 2.446em; display: inline-block;"><span style="display: inline-block; position: relative; width: 2.024em; height: 0px; font-size: 120%;"><span style="position: absolute; clip: rect(1.406em, 1001.98em, 2.462em, -1000em); top: -2.262em; left: 0em;"><span class="mrow" id="MathJax-Span-18"><span class="mn" id="MathJax-Span-19" style="font-family: MathJax_Main;">4000</span></span><span style="display: inline-block; width: 0px; height: 2.262em;"></span></span></span><span style="display: inline-block; overflow: hidden; vertical-align: -0.098em; border-left: 0px solid; width: 0px; height: 0.982em;"></span></span></nobr></span><script type="math/tex" id="MathJax-Element-4">4000</script>.<br></p>
+        </div>
+
+        <div id="output" class="col-md-12">
+            <h4 class="text-center">Output</h4>
+            <p><span style="text-decoration-line: underline;">Línea 1</span>: "SI" o "NO" dependiendo si es posible crear el cuadrado con los palillos o no respectivamente.</p>
+        </div>
+
+        <div id="tests" class="col-md-12">
+            <h4 class="text-center">Sample test(s)</h4>
+
+            <div class="sample-tests">
+                
+                    <div class="sample-test">
+                        <div class="input">
+                            <div class="title">Input</div>
+                            <div class="pre"><span class="text">5
+1 1 2 2 2</span></div>
+                        </div>
+                        <div class="output">
+                            <div class="title">Output</div>
+                            <div class="pre"><span class="text">SI</span></div>
+                        </div>
+                    </div>
+                
+                    <div class="sample-test">
+                        <div class="input">
+                            <div class="title">Input</div>
+                            <div class="pre"><span class="text">5
+3 3 3 3 4</span></div>
+                        </div>
+                        <div class="output">
+                            <div class="title">Output</div>
+                            <div class="pre"><span class="text">NO</span></div>
+                        </div>
+                    </div>
+                
+            </div>
+        </div>
+
+        
+    </div>
+
+    
+
+                        </section>
+                    </div>
+                </div>
+            
+
+            <hr>
+
+            <footer>
+                <div class="center">
+                    <p>© 2018 - MOG Version: 3.0 (<strong>BETA</strong>)</p>
+                    <p>Grader Version: 2.0.0.22</p>
+                    <p>Server Time: 8th November 2018 13:34</p>
+                    <p>
+                        <a href="https://www.facebook.com/MatcomOnlineGrader" target="_blank" style="text-decoration: none;">
+                            <img src="Gema%20y%20los%20palillos%20%20%20MatCom%20Online%20Grader_files/fl.png" class="margin-right-5">
+                        </a>
+                        <a href="https://twitter.com/MatcomGrader" target="_blank" style="text-decoration: none;">
+                            <img src="Gema%20y%20los%20palillos%20%20%20MatCom%20Online%20Grader_files/tl.png" class="margin-left-5">
+                        </a>
+                    </p>
+                </div>
+            </footer>
+        </div>
+
+        <script type="text/javascript" src="Gema%20y%20los%20palillos%20%20%20MatCom%20Online%20Grader_files/jquery-3.js"></script>
+        <script type="text/javascript" src="Gema%20y%20los%20palillos%20%20%20MatCom%20Online%20Grader_files/bootstrap.js"></script>
+        <script type="text/javascript" src="Gema%20y%20los%20palillos%20%20%20MatCom%20Online%20Grader_files/mog.js"></script>
+
+
+        
+    <script type="text/javascript" async="" src="Gema%20y%20los%20palillos%20%20%20MatCom%20Online%20Grader_files/MathJax.js">
+    </script>
+    <script type="text/x-mathjax-config;executed=true">
+        MathJax.Hub.Config({messageStyle: "none"});
+    </script>
+
+
+        <script>
+            $(document).ready(function () {
+                 $('[data-toggle="tooltip"]').tooltip();
+                 $('[data-toggle="popover"]').popover();
+                if (window.MOG !== undefined)
+                    window.MOG.initializeSummernote(false);
+            });
+        </script>
+    
+<div style="position: absolute; width: 0px; height: 0px; overflow: hidden; padding: 0px; border: 0px none; margin: 0px;"><div id="MathJax_Font_Test" style="position: absolute; visibility: hidden; top: 0px; left: 0px; width: auto; padding: 0px; border: 0px none; margin: 0px; white-space: nowrap; text-align: left; text-indent: 0px; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; font-size: 40px; font-weight: normal; font-style: normal; font-size-adjust: none; font-family: MathJax_Main, sans-serif;"></div></div></body></html>

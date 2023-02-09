@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AyZajCmSZFVVtKF23N9/TqLyDCWkTpA6ASX76qZWFVBSm808VwzvaYn0QWb2HW2TqIZMywDN5e60m8k6uB8U6w==",
+  "success": true,
+  "projectFilePath": "/Users/frankperez24/Desktop/Recursividad/festival/tester 2/tester/tester.csproj",
+  "expectedPackageFiles": [
+    "/Users/frankperez24/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "/Users/frankperez24/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "/Users/frankperez24/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.12/microsoft.netcore.app.host.osx-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,72 @@
+/Users/tony/Documents/Recursividad/manager - tester/tester/code/bin/Debug/net6.0/code.deps.json
+/Users/tony/Documents/Recursividad/manager - tester/tester/code/bin/Debug/net6.0/code.dll
+/Users/tony/Documents/Recursividad/manager - tester/tester/code/bin/Debug/net6.0/ref/code.dll
+/Users/tony/Documents/Recursividad/manager - tester/tester/code/bin/Debug/net6.0/code.pdb
+/Users/tony/Documents/Recursividad/manager - tester/tester/code/obj/Debug/net6.0/code.csproj.AssemblyReference.cache
+/Users/tony/Documents/Recursividad/manager - tester/tester/code/obj/Debug/net6.0/code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Documents/Recursividad/manager - tester/tester/code/obj/Debug/net6.0/code.AssemblyInfoInputs.cache
+/Users/tony/Documents/Recursividad/manager - tester/tester/code/obj/Debug/net6.0/code.AssemblyInfo.cs
+/Users/tony/Documents/Recursividad/manager - tester/tester/code/obj/Debug/net6.0/code.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/Recursividad/manager - tester/tester/code/obj/Debug/net6.0/code.dll
+/Users/tony/Documents/Recursividad/manager - tester/tester/code/obj/Debug/net6.0/ref/code.dll
+/Users/tony/Documents/Recursividad/manager - tester/tester/code/obj/Debug/net6.0/code.pdb
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/code/bin/Debug/net6.0/code.deps.json
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/code/bin/Debug/net6.0/code.dll
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/code/bin/Debug/net6.0/ref/code.dll
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/code/bin/Debug/net6.0/code.pdb
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/code/obj/Debug/net6.0/code.csproj.AssemblyReference.cache
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/code/obj/Debug/net6.0/code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/code/obj/Debug/net6.0/code.AssemblyInfoInputs.cache
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/code/obj/Debug/net6.0/code.AssemblyInfo.cs
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/code/obj/Debug/net6.0/code.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/code/obj/Debug/net6.0/code.dll
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/code/obj/Debug/net6.0/ref/code.dll
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/code/obj/Debug/net6.0/code.pdb
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/code/bin/Debug/net6.0/code.deps.json
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/code/bin/Debug/net6.0/code.dll
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/code/bin/Debug/net6.0/ref/code.dll
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/code/bin/Debug/net6.0/code.pdb
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/code/obj/Debug/net6.0/code.csproj.AssemblyReference.cache
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/code/obj/Debug/net6.0/code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/code/obj/Debug/net6.0/code.AssemblyInfoInputs.cache
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/code/obj/Debug/net6.0/code.AssemblyInfo.cs
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/code/obj/Debug/net6.0/code.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/code/obj/Debug/net6.0/code.dll
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/code/obj/Debug/net6.0/ref/code.dll
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/code/obj/Debug/net6.0/code.pdb
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/code/bin/Debug/net6.0/code.deps.json
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/code/bin/Debug/net6.0/code.dll
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/code/bin/Debug/net6.0/ref/code.dll
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/code/bin/Debug/net6.0/code.pdb
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/code/obj/Debug/net6.0/code.csproj.AssemblyReference.cache
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/code/obj/Debug/net6.0/code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/code/obj/Debug/net6.0/code.AssemblyInfoInputs.cache
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/code/obj/Debug/net6.0/code.AssemblyInfo.cs
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/code/obj/Debug/net6.0/code.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/code/obj/Debug/net6.0/code.dll
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/code/obj/Debug/net6.0/ref/code.dll
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/code/obj/Debug/net6.0/code.pdb
+/Users/tony/Documents/Extra/festival - tester/tester/code/bin/Debug/net6.0/code.deps.json
+/Users/tony/Documents/Extra/festival - tester/tester/code/bin/Debug/net6.0/code.dll
+/Users/tony/Documents/Extra/festival - tester/tester/code/bin/Debug/net6.0/ref/code.dll
+/Users/tony/Documents/Extra/festival - tester/tester/code/bin/Debug/net6.0/code.pdb
+/Users/tony/Documents/Extra/festival - tester/tester/code/obj/Debug/net6.0/code.csproj.AssemblyReference.cache
+/Users/tony/Documents/Extra/festival - tester/tester/code/obj/Debug/net6.0/code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Documents/Extra/festival - tester/tester/code/obj/Debug/net6.0/code.AssemblyInfoInputs.cache
+/Users/tony/Documents/Extra/festival - tester/tester/code/obj/Debug/net6.0/code.AssemblyInfo.cs
+/Users/tony/Documents/Extra/festival - tester/tester/code/obj/Debug/net6.0/code.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/Extra/festival - tester/tester/code/obj/Debug/net6.0/code.dll
+/Users/tony/Documents/Extra/festival - tester/tester/code/obj/Debug/net6.0/ref/code.dll
+/Users/tony/Documents/Extra/festival - tester/tester/code/obj/Debug/net6.0/code.pdb
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/code/obj/Debug/net6.0/code.csproj.AssemblyReference.cache
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/code/obj/Debug/net6.0/code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/code/obj/Debug/net6.0/code.AssemblyInfoInputs.cache
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/code/obj/Debug/net6.0/code.AssemblyInfo.cs
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/code/obj/Debug/net6.0/code.csproj.CoreCompileInputs.cache
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/code/obj/Debug/net6.0/code.dll
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/code/obj/Debug/net6.0/code.pdb
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/code/bin/Debug/net6.0/code.deps.json
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/code/bin/Debug/net6.0/code.dll
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/code/bin/Debug/net6.0/code.pdb
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/code/obj/Debug/net6.0/refint/code.dll
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/code/obj/Debug/net6.0/ref/code.dll

@@ -1,0 +1,84 @@
+/Users/tony/Documents/wifi/tester/resolver/bin/Debug/net6.0/resolver.deps.json
+/Users/tony/Documents/wifi/tester/resolver/bin/Debug/net6.0/resolver.dll
+/Users/tony/Documents/wifi/tester/resolver/bin/Debug/net6.0/ref/resolver.dll
+/Users/tony/Documents/wifi/tester/resolver/bin/Debug/net6.0/resolver.pdb
+/Users/tony/Documents/wifi/tester/resolver/obj/Debug/net6.0/resolver.csproj.AssemblyReference.cache
+/Users/tony/Documents/wifi/tester/resolver/obj/Debug/net6.0/resolver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Documents/wifi/tester/resolver/obj/Debug/net6.0/resolver.AssemblyInfoInputs.cache
+/Users/tony/Documents/wifi/tester/resolver/obj/Debug/net6.0/resolver.AssemblyInfo.cs
+/Users/tony/Documents/wifi/tester/resolver/obj/Debug/net6.0/resolver.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/wifi/tester/resolver/obj/Debug/net6.0/resolver.dll
+/Users/tony/Documents/wifi/tester/resolver/obj/Debug/net6.0/ref/resolver.dll
+/Users/tony/Documents/wifi/tester/resolver/obj/Debug/net6.0/resolver.pdb
+/Users/tony/Documents/Recursividad/manager - tester/tester/resolver/bin/Debug/net6.0/resolver.deps.json
+/Users/tony/Documents/Recursividad/manager - tester/tester/resolver/bin/Debug/net6.0/resolver.dll
+/Users/tony/Documents/Recursividad/manager - tester/tester/resolver/bin/Debug/net6.0/ref/resolver.dll
+/Users/tony/Documents/Recursividad/manager - tester/tester/resolver/bin/Debug/net6.0/resolver.pdb
+/Users/tony/Documents/Recursividad/manager - tester/tester/resolver/obj/Debug/net6.0/resolver.csproj.AssemblyReference.cache
+/Users/tony/Documents/Recursividad/manager - tester/tester/resolver/obj/Debug/net6.0/resolver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Documents/Recursividad/manager - tester/tester/resolver/obj/Debug/net6.0/resolver.AssemblyInfoInputs.cache
+/Users/tony/Documents/Recursividad/manager - tester/tester/resolver/obj/Debug/net6.0/resolver.AssemblyInfo.cs
+/Users/tony/Documents/Recursividad/manager - tester/tester/resolver/obj/Debug/net6.0/resolver.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/Recursividad/manager - tester/tester/resolver/obj/Debug/net6.0/resolver.dll
+/Users/tony/Documents/Recursividad/manager - tester/tester/resolver/obj/Debug/net6.0/ref/resolver.dll
+/Users/tony/Documents/Recursividad/manager - tester/tester/resolver/obj/Debug/net6.0/resolver.pdb
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/resolver/bin/Debug/net6.0/resolver.deps.json
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/resolver/bin/Debug/net6.0/resolver.dll
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/resolver/bin/Debug/net6.0/ref/resolver.dll
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/resolver/bin/Debug/net6.0/resolver.pdb
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/resolver/obj/Debug/net6.0/resolver.csproj.AssemblyReference.cache
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/resolver/obj/Debug/net6.0/resolver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/resolver/obj/Debug/net6.0/resolver.AssemblyInfoInputs.cache
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/resolver/obj/Debug/net6.0/resolver.AssemblyInfo.cs
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/resolver/obj/Debug/net6.0/resolver.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/resolver/obj/Debug/net6.0/resolver.dll
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/resolver/obj/Debug/net6.0/ref/resolver.dll
+/Users/tony/Documents/Recursividad/tuEnvio - tester/tester/resolver/obj/Debug/net6.0/resolver.pdb
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/resolver/bin/Debug/net6.0/resolver.deps.json
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/resolver/bin/Debug/net6.0/resolver.dll
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/resolver/bin/Debug/net6.0/ref/resolver.dll
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/resolver/bin/Debug/net6.0/resolver.pdb
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/resolver/obj/Debug/net6.0/resolver.csproj.AssemblyReference.cache
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/resolver/obj/Debug/net6.0/resolver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/resolver/obj/Debug/net6.0/resolver.AssemblyInfoInputs.cache
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/resolver/obj/Debug/net6.0/resolver.AssemblyInfo.cs
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/resolver/obj/Debug/net6.0/resolver.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/resolver/obj/Debug/net6.0/resolver.dll
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/resolver/obj/Debug/net6.0/ref/resolver.dll
+/Users/tony/Documents/Recursividad 2/frecuencias - tester/tester/resolver/obj/Debug/net6.0/resolver.pdb
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/resolver/bin/Debug/net6.0/resolver.deps.json
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/resolver/bin/Debug/net6.0/resolver.dll
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/resolver/bin/Debug/net6.0/ref/resolver.dll
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/resolver/bin/Debug/net6.0/resolver.pdb
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/resolver/obj/Debug/net6.0/resolver.csproj.AssemblyReference.cache
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/resolver/obj/Debug/net6.0/resolver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/resolver/obj/Debug/net6.0/resolver.AssemblyInfoInputs.cache
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/resolver/obj/Debug/net6.0/resolver.AssemblyInfo.cs
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/resolver/obj/Debug/net6.0/resolver.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/resolver/obj/Debug/net6.0/resolver.dll
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/resolver/obj/Debug/net6.0/ref/resolver.dll
+/Users/tony/Documents/Recursividad 2/camaras - tester/tester/resolver/obj/Debug/net6.0/resolver.pdb
+/Users/tony/Documents/Extra/festival - tester/tester/resolver/bin/Debug/net6.0/resolver.deps.json
+/Users/tony/Documents/Extra/festival - tester/tester/resolver/bin/Debug/net6.0/resolver.dll
+/Users/tony/Documents/Extra/festival - tester/tester/resolver/bin/Debug/net6.0/ref/resolver.dll
+/Users/tony/Documents/Extra/festival - tester/tester/resolver/bin/Debug/net6.0/resolver.pdb
+/Users/tony/Documents/Extra/festival - tester/tester/resolver/obj/Debug/net6.0/resolver.csproj.AssemblyReference.cache
+/Users/tony/Documents/Extra/festival - tester/tester/resolver/obj/Debug/net6.0/resolver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tony/Documents/Extra/festival - tester/tester/resolver/obj/Debug/net6.0/resolver.AssemblyInfoInputs.cache
+/Users/tony/Documents/Extra/festival - tester/tester/resolver/obj/Debug/net6.0/resolver.AssemblyInfo.cs
+/Users/tony/Documents/Extra/festival - tester/tester/resolver/obj/Debug/net6.0/resolver.csproj.CoreCompileInputs.cache
+/Users/tony/Documents/Extra/festival - tester/tester/resolver/obj/Debug/net6.0/resolver.dll
+/Users/tony/Documents/Extra/festival - tester/tester/resolver/obj/Debug/net6.0/ref/resolver.dll
+/Users/tony/Documents/Extra/festival - tester/tester/resolver/obj/Debug/net6.0/resolver.pdb
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/resolver/bin/Debug/net6.0/resolver.deps.json
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/resolver/bin/Debug/net6.0/resolver.dll
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/resolver/bin/Debug/net6.0/resolver.pdb
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/resolver/obj/Debug/net6.0/resolver.csproj.AssemblyReference.cache
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/resolver/obj/Debug/net6.0/resolver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/resolver/obj/Debug/net6.0/resolver.AssemblyInfoInputs.cache
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/resolver/obj/Debug/net6.0/resolver.AssemblyInfo.cs
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/resolver/obj/Debug/net6.0/resolver.csproj.CoreCompileInputs.cache
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/resolver/obj/Debug/net6.0/resolver.dll
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/resolver/obj/Debug/net6.0/refint/resolver.dll
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/resolver/obj/Debug/net6.0/resolver.pdb
+/Users/frankperez24/Desktop/Recursividad/festival/tester 2/resolver/obj/Debug/net6.0/ref/resolver.dll

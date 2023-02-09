@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "tester/1.0.0": {
+        "dependencies": {
+          "festival": "1.0.0"
+        },
+        "runtime": {
+          "tester.dll": {}
+        }
+      },
+      "festival/1.0.0": {
+        "runtime": {
+          "festival.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tester/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "festival/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
